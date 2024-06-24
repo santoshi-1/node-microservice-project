@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "catalog-service"
+		},
+		{
+			"path": "order-service"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "catalog-service"
+	}
+}
